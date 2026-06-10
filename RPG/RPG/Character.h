@@ -6,7 +6,7 @@
 using namespace std;
 
 class Character {
-protected:
+private:
 	string name, job;//角色名稱和職業
 	int hp, maxHp, mp, maxMp;//當前血量、最大血量、當前魔力和最大魔力
 	int critChance, baseRecover, evasionRate, defenseValue;//暴擊率、基礎能量恢復量、閃避率和防禦值
