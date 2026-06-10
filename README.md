@@ -29,11 +29,11 @@ Jobs.h：各職業衍生類別的數值初始化。
 
 UI.h：戰鬥畫面渲染與框框顯示。
 
-### 🛠 如何安裝執行
-下載整個RPG資料夾後開啟"RPG\x64\Release\RPG.exe"
-
 ### 玩法
 依顯示操作即可
+
+### 🛠 如何安裝執行
+下載整個RPG資料夾後開啟"RPG\x64\Release\RPG.exe"
 
 ### 程式執行截圖
 <img width="526" height="874" alt="image" src="https://github.com/user-attachments/assets/0e9e55ac-f0fb-433c-aa73-c8142b37c974" />
