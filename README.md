@@ -36,21 +36,7 @@ UI.h：戰鬥畫面渲染與框框顯示。
 <img width="526" height="874" alt="image" src="https://github.com/user-attachments/assets/0e9e55ac-f0fb-433c-aa73-c8142b37c974" />
 #分工資訊
 
-林湧晉:
+林湧晉:撰寫程式碼、PPT製作、UML圖製作、README製作
 
-秦萬榮:
-
-撰寫main.cpp
-
-Character.h/.cpp
-
-Jobs.h
-
-UI.h
-
-PPT製作
-
-README製作
-
-UML圖製作
+秦萬榮:修改程式碼並添加註解、修改專案啟動方式、README製作
 
